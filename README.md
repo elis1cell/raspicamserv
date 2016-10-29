@@ -8,7 +8,7 @@ raspicamserv \<options\><br>
 Options:<br>
 -? Help information.<br>
 -w Set image width \<size\>. Default: 1920.<br>
--h Set image height \<size\>. Default: 1080.br>
+-h Set image height \<size\>. Default: 1080.<br>
 -b Set bitrate (in bits/second).<br>
 -o Output filename \<filename\> (to write to stdout, use '=o -').<br>
 -v Output verbose information.<br>
